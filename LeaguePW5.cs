@@ -45,7 +45,7 @@ namespace LeaguePW5
                         mapId = 11,
                         mutators = new Mutators { id = 1 },
                         spectatorPolicy = "AllAllowed",
-                        teamSize = 5
+                        teamSize = 4
                     }
                 }
             };
